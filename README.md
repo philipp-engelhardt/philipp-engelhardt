@@ -1,4 +1,5 @@
 
+
 ## Skills und Tools
 
 <div align="center">
@@ -15,3 +16,10 @@
 </div>
 
 ---
+
+## GitHub Stats
+
+<div align="center">
+  <!-- Top Sprachen -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipp-engelhardt&layout=compact&theme=radical" alt="Top Langs" width="35%">
+</div>
