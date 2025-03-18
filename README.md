@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhwcnJ1cGplYXU1Ynh2d245YzdxaXUwMTM1bGxqeXZ4MDJzbm1kZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif" alt="Cool GIF" style="width: 100%;" />
+</p>
 
 ## Skills und Tools
 
